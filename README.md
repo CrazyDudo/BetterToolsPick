@@ -20,6 +20,8 @@ Pick up Better Tools
 | 8    | 文件互传      | LANDDrop                        | https://github.com/LANDrop/LANDrop                    |          |
 | 9    | 思维导图/脑图 | 石墨文档                        | https://shimo.im/                                     | web      |
 | 10   | 文件同步/共享 | Resilio Sync(原BitTorrent Sync) | https://www.resilio.com/                              |          |
+| 11   | 下载工具      | Internet Download Manager       | https://www.internetdownloadmanager.com/              |          |
+| 12   | 磁力种子下载  | qBittorrent                     | https://www.qbittorrent.org/                          |          |
 |      |               |                                 |                                                       |          |
 
 
