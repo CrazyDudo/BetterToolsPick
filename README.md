@@ -6,7 +6,7 @@ Pick up Better Tools
 
 
 
-<table border="1" cellspacing="0" width="50%" height="150">
+<table border="1" cellspacing="0" width="50%">
   <tr>
     <th>序号</th>
     <th>功能/类型</th>
@@ -112,11 +112,9 @@ Pick up Better Tools
 
 
 
-
-
 开发工具：
 
-<table border="1" cellspacing="0" width="50%" height="150">
+<table border="1" cellspacing="0" width="50%">
   <tr>
     <th>序号</th>
     <th>功能/类型</th>
@@ -174,7 +172,7 @@ Pick up Better Tools
 
 
 
-有好用的工具，欢迎pull request 😁
 
+有好用的工具，欢迎pull request 😁
 
 
