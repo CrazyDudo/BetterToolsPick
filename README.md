@@ -108,6 +108,34 @@ Pick up Better Tools
     <td>https://listen1.github.io/listen1/</td>
     <td>all</td>
   </tr>
+  <tr>
+    <td rowspan="1">13</td>
+    <td>影视剧</td>
+    <td>追剧达人</td>
+    <td>https://zjdr.vip/</td>
+    <td>TV,web,ios,android</td>
+  </tr>
+  <tr>
+    <td rowspan="1">13</td>
+    <td>网络视频</td>
+    <td>看B站</td>
+    <td>https://kanb.tv/</td>
+    <td>web</td>
+  </tr>
+  <tr>
+    <td rowspan="1">13</td>
+    <td>电子书</td>
+    <td>鸠摩搜书</td>
+    <td>https://www.jiumodiary.com/</td>
+    <td>web</td>
+  </tr>
+  <tr>
+    <td rowspan="1">13</td>
+    <td>电子书2</td>
+    <td>Z-library</td>
+    <td>http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/</td>
+    <td>web</td>
+  </tr>
 </table>
 
 
